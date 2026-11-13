@@ -1,0 +1,7 @@
+{
+  "APP-1001": {"credit_score": 782, "defaults": 0, "late_payments_12m": 0, "bankruptcy": false, "note": "Clean repayment history"},
+  "APP-1002": {"credit_score": 540, "defaults": 1, "late_payments_12m": 5, "bankruptcy": false, "note": "Credit-card default in 2025"},
+  "APP-1003": {"credit_score": 741, "defaults": 0, "late_payments_12m": 0, "bankruptcy": false, "note": "Clean repayment history"},
+  "APP-1005": {"credit_score": 688, "defaults": 0, "late_payments_12m": 3, "bankruptcy": false, "note": "Repeated late payments"},
+  "APP-1006": {"credit_score": 760, "defaults": 0, "late_payments_12m": 0, "bankruptcy": false, "note": "Clean; income fully committed to EMIs"}
+}
